@@ -40,5 +40,3 @@ _Always learning. Always shipping._
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/reethika-renganathan/)
 
 ---
-
-> “Make it work. Make it right. Make it fast.” – Kent Beck
